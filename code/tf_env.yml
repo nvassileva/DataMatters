@@ -1,0 +1,15 @@
+name: tf_env
+channels:
+- conda-forge
+- nvidia
+dependencies:
+- python=3.12
+- tensorflow=2.17
+- numpy
+- matplotlib
+- keras=3.7
+- ruamel.yaml
+- yaml
+- seaborn
+- ipykernel
+- openpyxl

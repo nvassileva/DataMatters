@@ -1,0 +1,18 @@
+outputRoot: .../data/pems-net/exponential/3086081
+precedingNodeRoot: .../data/pems-net/exponential/3086071
+targetNodeRoot: .../data/PeMS/Mainline VDS 3086081 - 50EB at Riverton Barn CCTV/
+distance: 1.62
+distribution: 1
+arrivalRate: 1
+meanCallDuration: 1
+timeInterval: 5
+standardDeviationCallDuration: '1.7320508075688772'
+probability: 0.5
+meanCallDuration2: 1
+standardDeviationCallDuration2: '1.7320508075688772'
+ratio: 1
+maxCalls: 100
+beginWeek: 13
+endWeek: 36
+seed: 1724765853
+
