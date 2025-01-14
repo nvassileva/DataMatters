@@ -1,4 +1,3 @@
-# DataMatters
 # Data Matters: The Case of Predicting Mobile Cellular Traffic
 
 
