@@ -1,0 +1,16 @@
+dataRoot: .../data/PeMS/Mainline VDS 3086071 - 50EB JWO Sly Park EB/
+outputRoot: .../data/pems-net/exponential/3086071
+distance: 7.67
+distribution: 1
+arrivalRate: 1
+meanCallDuration: 1
+timeInterval: 5
+standardDeviationCallDuration: '1.7320508075688772'
+probability: 0.5
+meanCallDuration2: 1
+standardDeviationCallDuration2: '1.7320508075688772'
+maxCalls: 100
+beginWeek: 13
+endWeek: 36
+seed: 1724761417
+

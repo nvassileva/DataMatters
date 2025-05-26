@@ -1,0 +1,18 @@
+outputRoot: .../data/pems-net/mixture-two-lognormals/317715/
+precedingNodeRoot: .../data/pems-net/mixture-two-lognormals/3410061
+targetNodeRoot: .../data/PeMS/Mainline VDS 317715 - F St/
+distance: 1.4
+distribution: 3
+arrivalRate: 1
+meanCallDuration: 1
+timeInterval: 5
+standardDeviationCallDuration: '1.7320508075688772'
+probability: 0.5
+meanCallDuration2: 10.0
+standardDeviationCallDuration2: '5.5'
+ratio: 1
+maxCalls: 100
+beginWeek: 13
+endWeek: 36
+seed: 1725382056
+

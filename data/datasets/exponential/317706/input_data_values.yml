@@ -1,0 +1,18 @@
+outputRoot: .../data/pems-net/exponential/317706
+precedingNodeRoot: .../data/pems-net/exponential/320280
+targetNodeRoot: .../data/PeMS/Mainline VDS 317706 - Echo Summit/
+distance: 3.89
+distribution: 1
+arrivalRate: 1
+meanCallDuration: 1
+timeInterval: 5
+standardDeviationCallDuration: '1.7320508075688772'
+probability: 0.5
+meanCallDuration2: 1
+standardDeviationCallDuration2: '1.7320508075688772'
+ratio: 1
+maxCalls: 100
+beginWeek: 13
+endWeek: 36
+seed: 1724767108
+
